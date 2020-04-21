@@ -10,11 +10,8 @@ https://blog.cacan.id/integrasi-laravel-7-dan-vue-js
 ## Clone dari GitHub:
 git clone https://github.com/blogcacanid/lara7vuejs.git
 
-## Kemudian rename direktori project menjadi lara7vuejs-adminlte:
-mv lara7vuejs lara7vuejs-adminlte
-
-## Lalu masuk kedirektoti project:
-cd lara7vuejs-adminlte
+## Lalu masuk kedirektori project:
+cd lara7vuejs
 
 ## Selanjutnya jalankan perintah berikut secara terurut:
 - cp .env.example .env
