@@ -16,6 +16,7 @@ cd lara7vuejs
 ## Selanjutnya jalankan perintah berikut secara berurutan:
 - cp .env.example .env
 - composer install
+- php artisan key:generate
 
 ## Testing
 Jalankan laravel dengan menggunakan perintah berikut:
