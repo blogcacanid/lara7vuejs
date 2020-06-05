@@ -16,12 +16,6 @@ cd lara7vuejs
 ## Selanjutnya jalankan perintah berikut secara terurut:
 - cp .env.example .env
 - composer install
-- php artisan key:generate
-
-- composer require laravel/ui
-- php artisan ui vue
-- npm install
-- npm run watch
 
 ## Testing
 Jalankan laravel dengan menggunakan perintah berikut:
