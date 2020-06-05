@@ -10,10 +10,10 @@ https://blog.cacan.id/integrasi-laravel-7-dan-vue-js
 ## Clone dari GitHub:
 git clone https://github.com/blogcacanid/lara7vuejs.git
 
-## Lalu masuk kedirektori project:
+## Lalu masuk ke direktori project:
 cd lara7vuejs
 
-## Selanjutnya jalankan perintah berikut secara terurut:
+## Selanjutnya jalankan perintah berikut secara berurutan:
 - cp .env.example .env
 - composer install
 
